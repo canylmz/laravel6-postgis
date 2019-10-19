@@ -1,0 +1,43 @@
+{
+  "name": "canylmz/laravel-postgis",
+  "description": "",
+  "keywords": [
+    "laravel",
+    "laravel6",
+    "framework",
+    "latitude",
+    "longitude",
+    "postgis",
+    "models",
+    "Geographical",
+    "Laravel Geographical",
+    "Laravel-Geographical",
+    "laravel6-Postgis"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Can YILMAZ",
+      "email": "canylmz6134@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "laravel/framework": "^6.0",
+    "phaza/laravel-postgis": "^4.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Canylmz\\Postgis\\": "src/"
+    }
+  },
+  "autoload-dev": {
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
