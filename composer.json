@@ -1,6 +1,7 @@
 {
   "name": "canylmz/laravel-postgis",
-  "description": "",
+  "type": "library",
+  "description": "This package implemented for calculate or check the distance between point and other database points.",
   "keywords": [
     "laravel",
     "laravel6",
@@ -14,6 +15,7 @@
     "Laravel-Geographical",
     "laravel6-Postgis"
   ],
+  "homepage": "https://github.com/canylmz/laravel6-postgis",
   "license": "MIT",
   "authors": [
     {
@@ -33,11 +35,8 @@
       "Canylmz\\Postgis\\": "src/"
     }
   },
-  "autoload-dev": {
-  },
   "config": {
+    "sort-packages": true,
     "preferred-install": "dist"
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }
