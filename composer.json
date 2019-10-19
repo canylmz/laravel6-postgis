@@ -28,8 +28,6 @@
     "laravel/framework": "^6.0",
     "phaza/laravel-postgis": "^4.0"
   },
-  "require-dev": {
-  },
   "autoload": {
     "psr-4": {
       "Canylmz\\Postgis\\": "src/"
@@ -39,6 +37,6 @@
     "sort-packages": true,
     "preferred-install": "dist"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true
 }
