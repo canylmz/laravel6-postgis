@@ -38,5 +38,7 @@
   "config": {
     "sort-packages": true,
     "preferred-install": "dist"
-  }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
