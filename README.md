@@ -11,7 +11,7 @@ so if need more details or how to enable postgis extension in php see previous l
 To get the latest version of Laravel 6 PostGIS, simply require the project using [Composer](https://getcomposer.org):
 
 ```bash
-composer require canylmz/laravel6-postgis
+composer require canylmz/laravel-postgis
 ```
 
 ## Usage
