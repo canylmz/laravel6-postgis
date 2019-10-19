@@ -1,6 +1,6 @@
 {
   "name": "canylmz/laravel-postgis",
-  "version": "v1.0",
+  "version": "v0.0.1",
   "type": "library",
   "description": "This package implemented for calculate or check the distance between point and other database points.",
   "keywords": [
